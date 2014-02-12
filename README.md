@@ -1,3 +1,3 @@
-# Data: Practical Tips from the Field
+# What Cricket Can Tell Us About Tracking Institutional Behavior
 
-Given at J/I in 2013
+Hacks/Hackers DC, Feb. 12, 2014
